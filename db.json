@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "clientes": [
     {
       "id": 1,
-      "title": "hello"
+      "nombre": "Cliente",
+      "apellido": "Uno",
+      "telefono": "123456",
+      "lat": "1",
+      "lon": "2"
+    },
+    {
+      "id": 2,
+      "nombre": "Cliente",
+      "apellido": "Dos",
+      "telefono": "777777",
+      "lat": "3",
+      "lon": "4"
+    },
+    {
+      "id": 3,
+      "nombre": "Kliente",
+      "apellido": "Tres",
+      "telefono": "3333",
+      "lat": "5",
+      "lon": "6"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
